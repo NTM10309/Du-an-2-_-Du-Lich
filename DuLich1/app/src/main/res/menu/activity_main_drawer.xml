@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/timkiem"
+            android:icon="@drawable/places_ic_search"
+            android:title="Tìm kiếm" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/book_minus"
+            android:title="Tin mới" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/tooltip_edit"
+            android:title="Đăng bài viết" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Cá nhân" />
+        <item
+            android:id="@+id/node"
+            android:icon="@drawable/note"
+            android:title="Sổ tay cá nhân" />
+    </group>
+
+    <item android:title="Quản lý chung">
+        <menu>
+            <item
+                android:id="@+id/anhdaidien"
+                android:icon="@drawable/anhcanhan"
+                android:title="Đặt ảnh đại diện" />
+            <item
+                android:id="@+id/doimk"
+                android:icon="@drawable/doimk"
+                android:title="Đổi mật khẩu" />
+            <item
+            android:id="@+id/dangxuat"
+            android:icon="@drawable/dangxuat"
+            android:title="Đăng xuất" />
+            <item
+                android:id="@+id/quantri"
+                android:icon="@drawable/user"
+                android:title="Quản trị nhanh" />
+        </menu>
+    </item>
+    <item android:title="Thông Tin">
+        <menu>
+            <item
+                android:id="@+id/thoitiet"
+                android:icon="@drawable/thoitiet"
+                android:title="Thời tiết" />
+            <item
+                android:id="@+id/dieukhoan"
+                android:icon="@drawable/lienhe"
+                android:title="Điều khoản" />
+            <item
+                android:id="@+id/lienhe"
+                android:icon="@drawable/chungtoi"
+                android:title="Liên hệ" />
+        </menu>
+    </item>
+
+</menu>

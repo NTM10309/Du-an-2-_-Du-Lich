@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Du Lịch Việt</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hi">HiActivity</string>
+    <string name="title_activity_login">""</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_news">""</string>
+    <string name="title_activity_main2">""</string>
+    <string name="title_activity_them_so_tay">Thêm sổ tay</string>
+    <string name="title_activity_sthem"></string>
+    <string name="title_activity_binhluan">Bình luận</string>
+    <string name="title_activity_cai_dat">Cài đặt</string>
+    <string name="title_activity_vi_tri">Map</string>
+    <string name="title_activity_thoi_tiet"></string>
+    <string name="title_activity_dieu_khoan">Điều khoản</string>
+    <string name="title_activity_lien_he">Liên hệ</string>
+    <string name="title_activity_xem_nguoi_dung"></string>
+    <string name="title_activity_tim_kiem">TimKiemActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
